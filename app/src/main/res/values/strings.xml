@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Night owl</string>
+    <string name="filename">FileName</string>
+    <string name="page_title">page_title</string>
+    <string name="favorite">favorite</string>
+    <string name="content_description_favorite">content_description_favorite</string>
+    <string name="search">search</string>
+    <string name="content_description_search">content_description</string>
+    <string name="more">more</string>
+    <string name="content_description_more">content_description_more</string>
+    <string name="add_url">Add Url</string>
+    <string name="app_owl">App Owl</string>
+</resources>

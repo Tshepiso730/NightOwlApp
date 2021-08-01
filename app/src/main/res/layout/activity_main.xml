@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222222">
+    <TimePicker
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tmSet"/>
+
+    <Button
+        android:id="@+id/btnStart"
+        android:text="Start"
+        android:layout_height="wrap_content"
+        android:minWidth="30px"
+        android:minHeight="30px"
+        android:layout_marginRight="130.0dp"
+        android:layout_marginLeft="130.0dp"
+        android:layout_marginTop="400dp"
+        android:clickable="true"
+        android:textStyle="bold|italic"
+        app:backgroundTint="@android:color/darker_gray"
+        android:layout_width="161.8dp" />
+</RelativeLayout>
